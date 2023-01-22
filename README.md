@@ -16,7 +16,8 @@
   * Precision- Recall
 
 * Details of files given
-  * Leads_Scoring_Case_Study- By-(Md AHMAD) .ipynb : The python file showing coding and data analysis 
+  * Leads_Scoring_Case_Study- By-(Md AHMAD) .ipynb : The python notebook file showing coding and data analysis 
+  * Leads_Scoring_Case_Study python_file- By-(Md AHMAD).py : pythone file showing only coding & comments
   * Leads_Scoring_Case_Study- Subjective Questions - By-(Md AHMAD).pdf : Some subjective questions answered
   * Lead Score Case Study - presentation file  -By-Md AHMAD.pdf : Final Presentation
   * Leads.csv : Data worked on
