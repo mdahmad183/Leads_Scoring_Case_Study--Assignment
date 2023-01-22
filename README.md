@@ -16,12 +16,13 @@
   * Precision- Recall
 
 * Details of files given
+  * Assignment Subjective Questions
+  * Leads Data Dictionary.xlsx : Data Dictionary
+  * Leads.csv : Data worked on
   * Leads_Scoring_Case_Study- By-(Md AHMAD) .ipynb : The python notebook file showing coding and data analysis 
-  * Leads_Scoring_Case_Study python_file- By-(Md AHMAD).py : pythone file showing only coding & comments
   * Leads_Scoring_Case_Study- Subjective Questions - By-(Md AHMAD).pdf : Some subjective questions answered
   * Lead Score Case Study - presentation file  -By-Md AHMAD.pdf : Final Presentation
-  * Leads.csv : Data worked on
-  * Leads Data Dictionary.xlsx : Data Dictionary
+  * Leads_Scoring_Case_Study python_file- By-(Md AHMAD).py : pythone file showing only coding & comments
   * Summary of Leads_Scoring_Case_Study- By-(Md AHMAD).pdf : Summary on what's done in the entire py file 
   
 * Goals of the Case Study
